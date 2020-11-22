@@ -1,0 +1,22 @@
+{
+  "name": "node-email",
+  "version": "1.0.0",
+  "description": "simple test of emailing",
+  "main": "email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortie23/node-email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mortie23/node-email/issues"
+  },
+  "homepage": "https://github.com/mortie23/node-email#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.16"
+  }
+}
